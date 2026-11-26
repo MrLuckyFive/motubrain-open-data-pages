@@ -1,0 +1,387 @@
+{
+  "version": "annotation-guide-v0.1",
+  "examples": [
+    {
+      "id": "m-01",
+      "video": "/open-data/manual/media/m-01.mp4",
+      "poster": "/open-data/manual/media/m-01.jpg",
+      "fps": 30.0,
+      "frame_count": 482,
+      "frame_offset": 1066,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 16.066666666666666,
+      "sha256": "5cfbaec33e0ca801aa878d3270ee59c8febf86f64a917df805d351282eb30a55",
+      "reference_annotations": [
+        {
+          "id": "m-01-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 481,
+          "instruction": "碗盘分类入架",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-01-medium-5",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 481,
+          "instruction": "左臂抓取桌上灰色盘子递给右臂，右臂将盘子竖插到沥水架上层卡槽",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-01-fine-9",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 116,
+          "instruction": "左臂夹住桌上灰色盘子边缘并抬起",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-01-fine-10",
+          "level": "fine",
+          "start_frame": 117,
+          "end_frame": 192,
+          "instruction": "左臂将灰色盘子递给右臂，右臂合爪接住后左臂松开",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-01-fine-11",
+          "level": "fine",
+          "start_frame": 193,
+          "end_frame": 481,
+          "instruction": "右臂将灰色盘子竖起插入沥水架上层卡槽，放稳后收臂",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-02",
+      "video": "/open-data/manual/media/m-02.mp4",
+      "poster": "/open-data/manual/media/m-02.jpg",
+      "fps": 30.0,
+      "frame_count": 479,
+      "frame_offset": 315,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 15.966666666666667,
+      "sha256": "ce2b14db059e94a359a88fd48aca8d94715afb5309359ee51bca328ec2864193",
+      "reference_annotations": [
+        {
+          "id": "m-02-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 478,
+          "instruction": "上衣折叠",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-02-medium-2",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 478,
+          "instruction": "左臂抓住长条左端向右翻折，右臂按住右端配合",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-02-fine-3",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 241,
+          "instruction": "左臂夹住长条左端，右臂夹住长条右端按住",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-02-fine-4",
+          "level": "fine",
+          "start_frame": 242,
+          "end_frame": 478,
+          "instruction": "左臂提起长条左端向右翻折叠到右半段上，右臂配合按住，折完后左臂松开",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-03",
+      "video": "/open-data/manual/media/m-03.mp4",
+      "poster": "/open-data/manual/media/m-03.jpg",
+      "fps": 30.0,
+      "frame_count": 732,
+      "frame_offset": 127,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 24.4,
+      "sha256": "5972e54f9aafe7f454bacef8d58b6c920acf455029368300b4ad94d0f571c10a",
+      "reference_annotations": [
+        {
+          "id": "m-03-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 731,
+          "instruction": "移杯与桌面擦拭",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-medium-1",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 38,
+          "instruction": "左臂抓起桌面中间的杯子并举起让开",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-medium-2",
+          "level": "medium",
+          "start_frame": 39,
+          "end_frame": 731,
+          "instruction": "右臂抓取桌面右侧的抹布擦拭桌面中间的绿色污渍，擦净后把抹布放回桌面右侧",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-fine-2",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 38,
+          "instruction": "左臂在空中握持杯子停留等待",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-fine-3",
+          "level": "fine",
+          "start_frame": 39,
+          "end_frame": 71,
+          "instruction": "右臂靠近并抓取桌面右侧的绿黄抹布",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-fine-4",
+          "level": "fine",
+          "start_frame": 72,
+          "end_frame": 685,
+          "instruction": "右臂持抹布在桌面来回擦拭，将绿色污渍擦干净",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-03-fine-5",
+          "level": "fine",
+          "start_frame": 686,
+          "end_frame": 731,
+          "instruction": "右臂将抹布放回桌面右侧并松开夹爪",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-04",
+      "video": "/open-data/manual/media/m-04.mp4",
+      "poster": "/open-data/manual/media/m-04.jpg",
+      "fps": 30.0,
+      "frame_count": 670,
+      "frame_offset": 239,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 22.333333333333332,
+      "sha256": "f7025ae3355a8533b0e4991212dca34737f885b76328a57591951dd74965a5a3",
+      "reference_annotations": [
+        {
+          "id": "m-04-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 669,
+          "instruction": "量杯向量筒转移液体",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-04-medium-2",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 669,
+          "instruction": "左臂倾斜量杯把液体倒入右臂持稳的量筒中",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-04-fine-3",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 669,
+          "instruction": "左臂抬起并倾斜量杯，将褐色液体持续倒入右臂水平持稳的量筒中",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-05",
+      "video": "/open-data/manual/media/m-05.mp4",
+      "poster": "/open-data/manual/media/m-05.jpg",
+      "fps": 30.0,
+      "frame_count": 632,
+      "frame_offset": 498,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 21.066666666666666,
+      "sha256": "8c66a78353e9b9864b4a20e17e27df5bec546a42e73cc5c153af34a112f81830",
+      "reference_annotations": [
+        {
+          "id": "m-05-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 631,
+          "instruction": "工具箱开合与取钳",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-05-medium-3",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 631,
+          "instruction": "左臂翻合箱盖、右臂扶住箱体合上工具箱，随后双臂按压箱体使卡扣扣紧",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-05-fine-4",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 631,
+          "instruction": "左臂扶起箱盖翻折合到箱体上，右臂扶住右侧箱体配合合拢",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-06",
+      "video": "/open-data/manual/media/m-06.mp4",
+      "poster": "/open-data/manual/media/m-06.jpg",
+      "fps": 30.0,
+      "frame_count": 943,
+      "frame_offset": 0,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 31.433333333333334,
+      "sha256": "41ad67807365284436628777c12b8478054800138570bd1add069bdfeaf84756",
+      "reference_annotations": [
+        {
+          "id": "m-06-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 942,
+          "instruction": "形状积木嵌入槽位",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-06-medium-1",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 942,
+          "instruction": "右臂抓取桌上右侧的绿色方形积木并放入形状拼图板右上角的绿色方形槽",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-06-fine-1",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 356,
+          "instruction": "右臂伸向桌上右侧的绿色方形积木，合爪夹住其顶部圆钮并抬起，左臂同时前移悬停在拼图板上方",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-06-fine-2",
+          "level": "fine",
+          "start_frame": 357,
+          "end_frame": 942,
+          "instruction": "右臂持绿色方形积木移至拼图板右上角的绿色方形槽，对齐下放并多次按压到位后开爪释放，随后短暂收回",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    },
+    {
+      "id": "m-07",
+      "video": "/open-data/manual/media/m-07.mp4",
+      "poster": "/open-data/manual/media/m-07.jpg",
+      "fps": 30.0,
+      "frame_count": 193,
+      "frame_offset": 834,
+      "frame_index_base": 0,
+      "end_frame_inclusive": true,
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": 6.433333333333334,
+      "sha256": "3b6be20af365ec0555d24f7408dd35353d34182a8f87ebd6cff9c2b9850c2b1e",
+      "reference_annotations": [
+        {
+          "id": "m-07-coarse-1",
+          "level": "coarse",
+          "start_frame": 0,
+          "end_frame": 192,
+          "instruction": "翻杯寻找玩具",
+          "clipped": true,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-07-medium-4",
+          "level": "medium",
+          "start_frame": 0,
+          "end_frame": 192,
+          "instruction": "左臂再次掀起左侧杯子并放到旁边，露出藏着的黄鸭",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-07-fine-7",
+          "level": "fine",
+          "start_frame": 0,
+          "end_frame": 73,
+          "instruction": "左臂再次伸向左侧杯子并夹稳抬起，露出下面的黄鸭",
+          "clipped": false,
+          "review_status": "reference_only"
+        },
+        {
+          "id": "m-07-fine-8",
+          "level": "fine",
+          "start_frame": 74,
+          "end_frame": 192,
+          "instruction": "左臂将左侧杯子放到黄鸭左边的桌面上并松开",
+          "clipped": false,
+          "review_status": "reference_only"
+        }
+      ]
+    }
+  ]
+}

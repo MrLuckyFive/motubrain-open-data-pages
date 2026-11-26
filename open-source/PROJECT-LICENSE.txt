@@ -1,0 +1,8 @@
+PROJECT CODE AND DATASET LICENSE
+
+Datasets released as part of this project are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0):
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Open-source quality inspection operator code is licensed under the Apache License, Version 2.0. Project code is also available under Apache License 2.0; the license text is available at /open-source/APACHE-2.0.txt.
+
+Third-party software remains subject to its own licenses, as listed in THIRD_PARTY_NOTICES.txt. These statements do not grant rights to names, logos, or trademarks. Individual releases may include additional attribution and source notices.

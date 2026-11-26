@@ -1,0 +1,2672 @@
+[
+  {
+    "category": "厨房与餐饮",
+    "object": "刀具",
+    "duration": 31.9,
+    "fps": 30.0,
+    "frames": 957,
+    "captions": [
+      {
+        "scale": "coarse",
+        "text": "刀具收纳整理",
+        "start": 0.0,
+        "end": 31.9,
+        "language": "original",
+        "translations": {
+          "zh": "刀具收纳整理",
+          "en": "Organize and put away knives and a honing rod."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "左臂从砧板抓取磨刀棒，右臂接过磨刀棒并将其插入后方的黑色刀架",
+        "start": 0.0,
+        "end": 14.966666666666667,
+        "language": "original",
+        "translations": {
+          "zh": "左臂从砧板抓取磨刀棒，右臂接过磨刀棒并将其插入后方的黑色刀架",
+          "en": "The left arm grasps the honing rod from the cutting board; the right arm takes it and inserts it into the black knife block at the back."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "左臂从砧板抓取厨师刀，右臂接过厨师刀并将其插入后方的黑色刀架",
+        "start": 14.966666666666667,
+        "end": 31.9,
+        "language": "original",
+        "translations": {
+          "zh": "左臂从砧板抓取厨师刀，右臂接过厨师刀并将其插入后方的黑色刀架",
+          "en": "The left arm grasps the chef’s knife from the cutting board; the right arm takes it and inserts it into the black knife block at the back."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "左臂抓取砧板上的磨刀棒，右臂接过磨刀棒并将其插入刀架",
+        "start": 0.0,
+        "end": 14.966666666666667,
+        "language": "original",
+        "translations": {
+          "zh": "左臂抓取砧板上的磨刀棒，右臂接过磨刀棒并将其插入刀架",
+          "en": "The left arm grasps the honing rod on the cutting board; the right arm takes it and inserts it into the knife block."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "左臂抓取砧板上的厨师刀，右臂接过厨师刀并将其插入刀架",
+        "start": 14.966666666666667,
+        "end": 31.9,
+        "language": "original",
+        "translations": {
+          "zh": "左臂抓取砧板上的厨师刀，右臂接过厨师刀并将其插入刀架",
+          "en": "The left arm grasps the chef’s knife on the cutting board; the right arm takes it and inserts it into the knife block."
+        }
+      },
+      {
+        "scale": "coarse",
+        "language": "zh",
+        "text": "收纳磨刀棒与菜刀入刀架",
+        "start": 0.0,
+        "end": 31.9
+      },
+      {
+        "scale": "medium",
+        "language": "zh",
+        "text": "左臂抓起砧板左侧的磨刀棒递给右臂，右臂插入黑色刀架插槽",
+        "start": 0.0,
+        "end": 13.266666666666667
+      },
+      {
+        "scale": "medium",
+        "language": "zh",
+        "text": "左臂抓起砧板右侧的黑色菜刀递给右臂，右臂插入刀架空插槽",
+        "start": 13.266666666666667,
+        "end": 31.9
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂伸向砧板左侧的磨刀棒，合爪握住手柄并抬起",
+        "start": 0.0,
+        "end": 6.2
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂将磨刀棒递给右臂，右臂合爪接住后左臂松开退回",
+        "start": 6.2,
+        "end": 7.333333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "右臂持磨刀棒移至黑色刀架上方，竖直插入插槽后松爪",
+        "start": 7.333333333333333,
+        "end": 13.266666666666667
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂伸向砧板右侧的黑色菜刀，合爪握住手柄并略微抬起",
+        "start": 13.266666666666667,
+        "end": 20.633333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂将菜刀递给右臂，右臂合爪接住后左臂松开退回",
+        "start": 20.633333333333333,
+        "end": 31.9
+      },
+      {
+        "scale": "coarse",
+        "language": "en",
+        "text": "Place the honing rod and knife in the knife block.",
+        "start": 0.0,
+        "end": 31.9
+      },
+      {
+        "scale": "medium",
+        "language": "en",
+        "text": "The left arm picks up the honing rod from the left side of the cutting board and passes it to the right arm, which inserts it into the black knife block.",
+        "start": 0.0,
+        "end": 13.266666666666667
+      },
+      {
+        "scale": "medium",
+        "language": "en",
+        "text": "The left arm picks up the black knife from the right side of the cutting board and passes it to the right arm, which inserts it into an empty slot in the knife block.",
+        "start": 13.266666666666667,
+        "end": 31.9
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm reaches for the honing rod on the left side of the cutting board, grips the handle and lifts it.",
+        "start": 0.0,
+        "end": 6.2
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm passes the honing rod to the right arm, which grips it; the left arm then releases and withdraws.",
+        "start": 6.2,
+        "end": 7.333333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The right arm moves the honing rod above the black knife block, inserts it vertically into a slot and releases it.",
+        "start": 7.333333333333333,
+        "end": 13.266666666666667
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm reaches for the black knife on the right side of the cutting board, grips the handle and lifts it slightly.",
+        "start": 13.266666666666667,
+        "end": 20.633333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm passes the knife to the right arm, which grips it; the left arm then releases and withdraws.",
+        "start": 20.633333333333333,
+        "end": 31.9
+      }
+    ],
+    "trajectory": [
+      {
+        "time": 0.0,
+        "left": 0.18632,
+        "right": -0.10732,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 0.333,
+        "left": 0.19234,
+        "right": -0.11264,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 0.667,
+        "left": 0.19544,
+        "right": -0.11443,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 1.0,
+        "left": 0.19573,
+        "right": -0.11724,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 1.333,
+        "left": 0.21124,
+        "right": -0.12112,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 1.667,
+        "left": 0.25506,
+        "right": -0.1196,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 2.0,
+        "left": 0.28694,
+        "right": -0.1218,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 2.333,
+        "left": 0.26521,
+        "right": -0.12066,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 2.667,
+        "left": 0.22992,
+        "right": -0.11854,
+        "gripperLeft": -0.206,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 3.0,
+        "left": 0.21441,
+        "right": -0.11438,
+        "gripperLeft": 24.7707,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 3.333,
+        "left": 0.21111,
+        "right": -0.10628,
+        "gripperLeft": 70.6792,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 3.667,
+        "left": 0.21645,
+        "right": -0.1083,
+        "gripperLeft": 73.0939,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 4.0,
+        "left": 0.22516,
+        "right": -0.10391,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 4.333,
+        "left": 0.22825,
+        "right": -0.06913,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 4.667,
+        "left": 0.20852,
+        "right": 0.00695,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 5.0,
+        "left": 0.18751,
+        "right": 0.12295,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 5.333,
+        "left": 0.15663,
+        "right": 0.25494,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 5.667,
+        "left": 0.11152,
+        "right": 0.37293,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 6.0,
+        "left": 0.08196,
+        "right": 0.43752,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 6.333,
+        "left": 0.05428,
+        "right": 0.45197,
+        "gripperLeft": 73.1044,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 6.667,
+        "left": 0.03842,
+        "right": 0.44148,
+        "gripperLeft": 73.1044,
+        "gripperRight": 6.6425
+      },
+      {
+        "time": 7.0,
+        "left": 0.02958,
+        "right": 0.43063,
+        "gripperLeft": 73.1044,
+        "gripperRight": 77.1876
+      },
+      {
+        "time": 7.333,
+        "left": 0.0225,
+        "right": 0.43345,
+        "gripperLeft": 73.1044,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 7.667,
+        "left": 0.03456,
+        "right": 0.44578,
+        "gripperLeft": 1.458,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 8.0,
+        "left": 0.05309,
+        "right": 0.4361,
+        "gripperLeft": 0.2055,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 8.333,
+        "left": 0.07825,
+        "right": 0.39334,
+        "gripperLeft": -0.0412,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 8.667,
+        "left": 0.11608,
+        "right": 0.37592,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 9.0,
+        "left": 0.11993,
+        "right": 0.41469,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 9.333,
+        "left": 0.11945,
+        "right": 0.53393,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 9.667,
+        "left": 0.10932,
+        "right": 0.6807,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 10.0,
+        "left": 0.10901,
+        "right": 0.76386,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 10.333,
+        "left": 0.11277,
+        "right": 0.76693,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 10.667,
+        "left": 0.11197,
+        "right": 0.75809,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 11.0,
+        "left": 0.10461,
+        "right": 0.76481,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 11.333,
+        "left": 0.09696,
+        "right": 0.77299,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 11.667,
+        "left": 0.08933,
+        "right": 0.79227,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 12.0,
+        "left": 0.08912,
+        "right": 0.79197,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 12.333,
+        "left": 0.09173,
+        "right": 0.78021,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 12.667,
+        "left": 0.0854,
+        "right": 0.78315,
+        "gripperLeft": -0.0961,
+        "gripperRight": 82.5098
+      },
+      {
+        "time": 13.0,
+        "left": 0.08303,
+        "right": 0.78183,
+        "gripperLeft": -0.0961,
+        "gripperRight": 4.8603
+      },
+      {
+        "time": 13.333,
+        "left": 0.06916,
+        "right": 0.71255,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 13.667,
+        "left": 0.05297,
+        "right": 0.63366,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 14.0,
+        "left": 0.01745,
+        "right": 0.53761,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 14.333,
+        "left": -0.00703,
+        "right": 0.40727,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 14.667,
+        "left": -0.01636,
+        "right": 0.28034,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 15.0,
+        "left": -0.0192,
+        "right": 0.20682,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 15.333,
+        "left": -0.0053,
+        "right": 0.14477,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 15.667,
+        "left": 0.02173,
+        "right": 0.11794,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 16.0,
+        "left": 0.09854,
+        "right": 0.10069,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 16.333,
+        "left": 0.18191,
+        "right": 0.08928,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 16.667,
+        "left": 0.22434,
+        "right": 0.07852,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 17.0,
+        "left": 0.2339,
+        "right": 0.06816,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 17.333,
+        "left": 0.22161,
+        "right": 0.06613,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 17.667,
+        "left": 0.21581,
+        "right": 0.06206,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 18.0,
+        "left": 0.20054,
+        "right": 0.06641,
+        "gripperLeft": 6.7392,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 18.333,
+        "left": 0.19912,
+        "right": 0.06235,
+        "gripperLeft": 72.5387,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 18.667,
+        "left": 0.20086,
+        "right": 0.05944,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 19.0,
+        "left": 0.19283,
+        "right": 0.06958,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 19.333,
+        "left": 0.16159,
+        "right": 0.08694,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 19.667,
+        "left": 0.12756,
+        "right": 0.14044,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 20.0,
+        "left": 0.11061,
+        "right": 0.22641,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 20.333,
+        "left": 0.10433,
+        "right": 0.37319,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 20.667,
+        "left": 0.10735,
+        "right": 0.48087,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 21.0,
+        "left": 0.10129,
+        "right": 0.52109,
+        "gripperLeft": 72.0993,
+        "gripperRight": -0.032
+      },
+      {
+        "time": 21.333,
+        "left": 0.1071,
+        "right": 0.51776,
+        "gripperLeft": 72.0993,
+        "gripperRight": 18.4699
+      },
+      {
+        "time": 21.667,
+        "left": 0.10573,
+        "right": 0.50777,
+        "gripperLeft": 72.0993,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 22.0,
+        "left": 0.117,
+        "right": 0.51467,
+        "gripperLeft": 66.5725,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 22.333,
+        "left": 0.12635,
+        "right": 0.528,
+        "gripperLeft": 1.9266,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 22.667,
+        "left": 0.11567,
+        "right": 0.51674,
+        "gripperLeft": 0.3059,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 23.0,
+        "left": 0.11442,
+        "right": 0.45951,
+        "gripperLeft": -0.0046,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 23.333,
+        "left": 0.10592,
+        "right": 0.38773,
+        "gripperLeft": -0.0778,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 23.667,
+        "left": 0.10895,
+        "right": 0.32649,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 24.0,
+        "left": 0.10803,
+        "right": 0.30881,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 24.333,
+        "left": 0.10058,
+        "right": 0.35945,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 24.667,
+        "left": 0.10101,
+        "right": 0.44069,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 25.0,
+        "left": 0.10335,
+        "right": 0.47226,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 25.333,
+        "left": 0.10163,
+        "right": 0.47108,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 25.667,
+        "left": 0.09862,
+        "right": 0.46857,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 26.0,
+        "left": 0.08942,
+        "right": 0.47542,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 26.333,
+        "left": 0.09028,
+        "right": 0.49694,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 26.667,
+        "left": 0.084,
+        "right": 0.53051,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 27.0,
+        "left": 0.08141,
+        "right": 0.53436,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9821
+      },
+      {
+        "time": 27.333,
+        "left": 0.07943,
+        "right": 0.53148,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9927
+      },
+      {
+        "time": 27.667,
+        "left": 0.0829,
+        "right": 0.53773,
+        "gripperLeft": -0.0961,
+        "gripperRight": 79.9927
+      },
+      {
+        "time": 28.0,
+        "left": 0.08304,
+        "right": 0.53304,
+        "gripperLeft": -0.0961,
+        "gripperRight": 14.5001
+      },
+      {
+        "time": 28.333,
+        "left": 0.08343,
+        "right": 0.49665,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.4078
+      },
+      {
+        "time": 28.667,
+        "left": 0.07007,
+        "right": 0.45049,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 29.0,
+        "left": 0.04528,
+        "right": 0.40363,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 29.333,
+        "left": 0.01325,
+        "right": 0.35319,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 29.667,
+        "left": -0.01769,
+        "right": 0.30398,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 30.0,
+        "left": -0.04423,
+        "right": 0.24519,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 30.333,
+        "left": -0.04264,
+        "right": 0.17666,
+        "gripperLeft": -0.1052,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 30.667,
+        "left": -0.0345,
+        "right": 0.13095,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 31.0,
+        "left": -0.03043,
+        "right": 0.12039,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 31.333,
+        "left": -0.02726,
+        "right": 0.11979,
+        "gripperLeft": -0.0686,
+        "gripperRight": -0.0686
+      },
+      {
+        "time": 31.667,
+        "left": -0.02683,
+        "right": 0.12159,
+        "gripperLeft": -0.0961,
+        "gripperRight": -0.0686
+      }
+    ],
+    "id": "example-01",
+    "name": "刀具收纳",
+    "poster": "/open-data/media/example-01.jpg",
+    "cameras": [
+      {
+        "key": "cam_high",
+        "name": "主视角",
+        "url": "/open-data/media/example-01-cam_high.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Main view"
+      },
+      {
+        "key": "cam_left_wrist",
+        "name": "左腕",
+        "url": "/open-data/media/example-01-cam_left_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Left wrist"
+      },
+      {
+        "key": "cam_right_wrist",
+        "name": "右腕",
+        "url": "/open-data/media/example-01-cam_right_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Right wrist"
+      }
+    ],
+    "nameEn": "Putting away knives",
+    "categoryEn": "Kitchen and dining",
+    "objectEn": "Knives"
+  },
+  {
+    "category": "衣物与织物",
+    "object": "T恤",
+    "duration": 35.666667,
+    "fps": 30.0,
+    "frames": 1070,
+    "captions": [
+      {
+        "scale": "coarse",
+        "text": "Fold a purple t-shirt on a white table",
+        "start": 0.0,
+        "end": 35.666666666666664,
+        "language": "original",
+        "translations": {
+          "zh": "在白色桌面上折叠一件紫色 T 恤。",
+          "en": "Fold a purple t-shirt on a white table"
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "Both arms grasp the bottom corners of the purple t-shirt and fold the lower section upwards over the upper section.",
+        "start": 0.0,
+        "end": 12.033333333333333,
+        "language": "original",
+        "translations": {
+          "zh": "双臂抓住紫色 T 恤的下方两角，将下半部分向上折叠，覆盖上半部分。",
+          "en": "Both arms grasp the bottom corners of the purple t-shirt and fold the lower section upwards over the upper section."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "Both arms adjust the position of the folded t-shirt to align the edges neatly on the table.",
+        "start": 12.033333333333333,
+        "end": 24.033333333333335,
+        "language": "original",
+        "translations": {
+          "zh": "双臂调整折叠后的 T 恤位置，使桌面上的衣物边缘整齐对齐。",
+          "en": "Both arms adjust the position of the folded t-shirt to align the edges neatly on the table."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "Both arms release the t-shirt and retract away from the table surface.",
+        "start": 24.033333333333335,
+        "end": 35.666666666666664,
+        "language": "original",
+        "translations": {
+          "zh": "双臂松开 T 恤，并从桌面上方收回。",
+          "en": "Both arms release the t-shirt and retract away from the table surface."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "Both arms grasp the bottom left and right corners of the t-shirt and lift them upwards to fold the bottom half over the top half.",
+        "start": 0.0,
+        "end": 12.033333333333333,
+        "language": "original",
+        "translations": {
+          "zh": "双臂抓住 T 恤左下角和右下角并向上提起，将下半部分折到上半部分上。",
+          "en": "Both arms grasp the bottom left and right corners of the t-shirt and lift them upwards to fold the bottom half over the top half."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "Both arms hold the folded t-shirt and slide it slightly to straighten and align the fabric layers on the table.",
+        "start": 12.033333333333333,
+        "end": 24.033333333333335,
+        "language": "original",
+        "translations": {
+          "zh": "双臂保持抓握折叠后的 T 恤，轻微滑动衣物，使桌面上的织物层平整对齐。",
+          "en": "Both arms hold the folded t-shirt and slide it slightly to straighten and align the fabric layers on the table."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "Both arms open their grippers to release the t-shirt and move backwards away from the workspace.",
+        "start": 24.033333333333335,
+        "end": 35.666666666666664,
+        "language": "original",
+        "translations": {
+          "zh": "双臂张开夹爪释放 T 恤，并向后移离工作区域。",
+          "en": "Both arms open their grippers to release the t-shirt and move backwards away from the workspace."
+        }
+      },
+      {
+        "scale": "coarse",
+        "language": "zh",
+        "text": "折叠T恤",
+        "start": 0.0,
+        "end": 35.666666666666664
+      },
+      {
+        "scale": "medium",
+        "language": "zh",
+        "text": "双臂先后抓住桌上浅紫色T恤下摆边缘，将下摆向上翻折两次并抹平",
+        "start": 0.0,
+        "end": 35.666666666666664
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂先抓住T恤左下角衣边，右臂随后抓住靠近袖子的右侧衣边，双臂共同持稳下摆",
+        "start": 0.0,
+        "end": 8.333333333333334
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "双臂将T恤下摆边缘抬起向衣身中部翻折，折好后松开夹爪",
+        "start": 8.333333333333334,
+        "end": 13.233333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂抓住折叠后T恤的左下角，右臂抓住右侧衣边，再次持稳下摆",
+        "start": 13.233333333333333,
+        "end": 17.233333333333334
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "双臂将T恤下摆再次向上翻折并拉平整理，随后松开夹爪并收回手臂",
+        "start": 17.233333333333334,
+        "end": 35.666666666666664
+      },
+      {
+        "scale": "coarse",
+        "language": "en",
+        "text": "Fold a T-shirt.",
+        "start": 0.0,
+        "end": 35.666666666666664
+      },
+      {
+        "scale": "medium",
+        "language": "en",
+        "text": "Both arms grasp the hem of the light purple T-shirt on the table in sequence, fold it upward twice and smooth it out.",
+        "start": 0.0,
+        "end": 35.666666666666664
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm grasps the lower-left edge of the T-shirt, followed by the right arm grasping the right edge near the sleeve; both arms hold the hem steady.",
+        "start": 0.0,
+        "end": 8.333333333333334
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "Both arms lift the hem and fold it toward the middle of the T-shirt, then release their grippers.",
+        "start": 8.333333333333334,
+        "end": 13.233333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm grasps the lower-left corner of the folded T-shirt and the right arm grasps the right edge, holding the hem steady again.",
+        "start": 13.233333333333333,
+        "end": 17.233333333333334
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "Both arms fold the hem upward again, pull and smooth it out, then release their grippers and withdraw.",
+        "start": 17.233333333333334,
+        "end": 35.666666666666664
+      }
+    ],
+    "trajectory": [
+      {
+        "time": 0.0,
+        "left": 0.13259,
+        "right": -0.21755,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 0.333,
+        "left": 0.12216,
+        "right": -0.26015,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 0.667,
+        "left": 0.12144,
+        "right": -0.2738,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 1.0,
+        "left": 0.12149,
+        "right": -0.2654,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 1.333,
+        "left": 0.08827,
+        "right": -0.25998,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 1.667,
+        "left": 0.04158,
+        "right": -0.25168,
+        "gripperLeft": 0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 2.0,
+        "left": -0.00386,
+        "right": -0.23271,
+        "gripperLeft": 0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 2.333,
+        "left": -0.03697,
+        "right": -0.22586,
+        "gripperLeft": 0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 2.667,
+        "left": -0.05599,
+        "right": -0.22785,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 3.0,
+        "left": -0.07455,
+        "right": -0.22722,
+        "gripperLeft": 8.6259,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 3.333,
+        "left": -0.11727,
+        "right": -0.21205,
+        "gripperLeft": 42.7512,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 3.667,
+        "left": -0.11242,
+        "right": -0.21264,
+        "gripperLeft": 95.5396,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 4.0,
+        "left": -0.07778,
+        "right": -0.23951,
+        "gripperLeft": 97.2545,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 4.333,
+        "left": -0.06941,
+        "right": -0.28912,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 4.667,
+        "left": -0.06328,
+        "right": -0.32052,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 5.0,
+        "left": -0.05545,
+        "right": -0.29684,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 5.333,
+        "left": -0.04587,
+        "right": -0.20159,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 5.667,
+        "left": -0.03272,
+        "right": -0.11925,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 6.0,
+        "left": -0.03398,
+        "right": -0.08324,
+        "gripperLeft": 97.3074,
+        "gripperRight": -0.0412
+      },
+      {
+        "time": 6.333,
+        "left": -0.03713,
+        "right": -0.08307,
+        "gripperLeft": 97.3074,
+        "gripperRight": 3.172
+      },
+      {
+        "time": 6.667,
+        "left": -0.04176,
+        "right": -0.10732,
+        "gripperLeft": 97.3074,
+        "gripperRight": 41.1892
+      },
+      {
+        "time": 7.0,
+        "left": -0.04937,
+        "right": -0.12694,
+        "gripperLeft": 97.3074,
+        "gripperRight": 90.2337
+      },
+      {
+        "time": 7.333,
+        "left": -0.04691,
+        "right": -0.15092,
+        "gripperLeft": 97.3074,
+        "gripperRight": 96.9056
+      },
+      {
+        "time": 7.667,
+        "left": -0.03142,
+        "right": -0.17437,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 8.0,
+        "left": -0.03469,
+        "right": -0.14745,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 8.333,
+        "left": -0.05447,
+        "right": -0.08919,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 8.667,
+        "left": -0.0784,
+        "right": -0.04548,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 9.0,
+        "left": -0.13393,
+        "right": 0.03022,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 9.333,
+        "left": -0.18245,
+        "right": 0.11765,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 9.667,
+        "left": -0.22693,
+        "right": 0.16845,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 10.0,
+        "left": -0.2606,
+        "right": 0.21111,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 10.333,
+        "left": -0.29078,
+        "right": 0.26925,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 10.667,
+        "left": -0.31508,
+        "right": 0.34139,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 11.0,
+        "left": -0.33576,
+        "right": 0.38236,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.6032
+      },
+      {
+        "time": 11.333,
+        "left": -0.33914,
+        "right": 0.43878,
+        "gripperLeft": 97.3074,
+        "gripperRight": 97.2651
+      },
+      {
+        "time": 11.667,
+        "left": -0.34175,
+        "right": 0.47412,
+        "gripperLeft": 97.3919,
+        "gripperRight": 97.0431
+      },
+      {
+        "time": 12.0,
+        "left": -0.35747,
+        "right": 0.48074,
+        "gripperLeft": 97.3919,
+        "gripperRight": 96.8316
+      },
+      {
+        "time": 12.333,
+        "left": -0.37939,
+        "right": 0.52072,
+        "gripperLeft": 97.3074,
+        "gripperRight": 95.6774
+      },
+      {
+        "time": 12.667,
+        "left": -0.39308,
+        "right": 0.51586,
+        "gripperLeft": 6.8799,
+        "gripperRight": 7.3982
+      },
+      {
+        "time": 13.0,
+        "left": -0.2997,
+        "right": 0.38755,
+        "gripperLeft": 1.5211,
+        "gripperRight": 1.6474
+      },
+      {
+        "time": 13.333,
+        "left": -0.21304,
+        "right": 0.3256,
+        "gripperLeft": 0.4608,
+        "gripperRight": 0.5245
+      },
+      {
+        "time": 13.667,
+        "left": -0.17408,
+        "right": 0.31841,
+        "gripperLeft": 0.1964,
+        "gripperRight": 0.3059
+      },
+      {
+        "time": 14.0,
+        "left": -0.19351,
+        "right": 0.31966,
+        "gripperLeft": 0.1782,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 14.333,
+        "left": -0.2163,
+        "right": 0.32309,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 14.667,
+        "left": -0.24249,
+        "right": 0.31327,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 15.0,
+        "left": -0.25122,
+        "right": 0.30846,
+        "gripperLeft": 28.5468,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 15.333,
+        "left": -0.2604,
+        "right": 0.33044,
+        "gripperLeft": 96.8316,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 15.667,
+        "left": -0.2401,
+        "right": 0.31693,
+        "gripperLeft": 96.8316,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 16.0,
+        "left": -0.23583,
+        "right": 0.32686,
+        "gripperLeft": 96.8316,
+        "gripperRight": 0.2968
+      },
+      {
+        "time": 16.333,
+        "left": -0.23789,
+        "right": 0.35504,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 16.667,
+        "left": -0.23482,
+        "right": 0.44882,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 17.0,
+        "left": -0.22714,
+        "right": 0.55379,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 17.333,
+        "left": -0.22726,
+        "right": 0.56839,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 17.667,
+        "left": -0.21619,
+        "right": 0.58041,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 18.0,
+        "left": -0.21819,
+        "right": 0.57895,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 18.333,
+        "left": -0.23478,
+        "right": 0.57627,
+        "gripperLeft": 96.8422,
+        "gripperRight": 0.2876
+      },
+      {
+        "time": 18.667,
+        "left": -0.26346,
+        "right": 0.57302,
+        "gripperLeft": 96.8422,
+        "gripperRight": 49.3563
+      },
+      {
+        "time": 19.0,
+        "left": -0.29131,
+        "right": 0.5754,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.1601
+      },
+      {
+        "time": 19.333,
+        "left": -0.26522,
+        "right": 0.48574,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2132
+      },
+      {
+        "time": 19.667,
+        "left": -0.22515,
+        "right": 0.37176,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2344
+      },
+      {
+        "time": 20.0,
+        "left": -0.18224,
+        "right": 0.2656,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2451
+      },
+      {
+        "time": 20.333,
+        "left": -0.11935,
+        "right": 0.14007,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2451
+      },
+      {
+        "time": 20.667,
+        "left": -0.04175,
+        "right": 0.04111,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2451
+      },
+      {
+        "time": 21.0,
+        "left": -0.00096,
+        "right": -0.05577,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2451
+      },
+      {
+        "time": 21.333,
+        "left": 0.04216,
+        "right": -0.12027,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2451
+      },
+      {
+        "time": 21.667,
+        "left": 0.09391,
+        "right": -0.12694,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2557
+      },
+      {
+        "time": 22.0,
+        "left": 0.11456,
+        "right": -0.12207,
+        "gripperLeft": 96.8422,
+        "gripperRight": 94.2557
+      },
+      {
+        "time": 22.333,
+        "left": 0.10188,
+        "right": -0.14223,
+        "gripperLeft": 7.3719,
+        "gripperRight": 48.0065
+      },
+      {
+        "time": 22.667,
+        "left": 0.12918,
+        "right": -0.17228,
+        "gripperLeft": 1.7465,
+        "gripperRight": 1.9176
+      },
+      {
+        "time": 23.0,
+        "left": 0.11865,
+        "right": -0.1425,
+        "gripperLeft": 0.4972,
+        "gripperRight": 0.1873
+      },
+      {
+        "time": 23.333,
+        "left": 0.04356,
+        "right": -0.0441,
+        "gripperLeft": 0.2055,
+        "gripperRight": 0.1142
+      },
+      {
+        "time": 23.667,
+        "left": -0.07976,
+        "right": 0.02747,
+        "gripperLeft": 0.1873,
+        "gripperRight": 0.1142
+      },
+      {
+        "time": 24.0,
+        "left": -0.14556,
+        "right": 0.09022,
+        "gripperLeft": 0.1782,
+        "gripperRight": 0.1142
+      },
+      {
+        "time": 24.333,
+        "left": -0.19201,
+        "right": 0.14557,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 24.667,
+        "left": -0.15706,
+        "right": 0.19678,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 25.0,
+        "left": -0.18932,
+        "right": 0.20767,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 25.333,
+        "left": -0.20051,
+        "right": 0.20824,
+        "gripperLeft": 0.169,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 25.667,
+        "left": -0.22949,
+        "right": 0.2343,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 26.0,
+        "left": -0.28422,
+        "right": 0.24723,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 26.333,
+        "left": -0.29868,
+        "right": 0.23529,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.1051
+      },
+      {
+        "time": 26.667,
+        "left": -0.27843,
+        "right": 0.24415,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.096
+      },
+      {
+        "time": 27.0,
+        "left": -0.30289,
+        "right": 0.24282,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.096
+      },
+      {
+        "time": 27.333,
+        "left": -0.31576,
+        "right": 0.24474,
+        "gripperLeft": 0.1599,
+        "gripperRight": 0.0228
+      },
+      {
+        "time": 27.667,
+        "left": -0.3283,
+        "right": 0.2667,
+        "gripperLeft": 0.1508,
+        "gripperRight": 0.0137
+      },
+      {
+        "time": 28.0,
+        "left": -0.38234,
+        "right": 0.30068,
+        "gripperLeft": 0.0228,
+        "gripperRight": 0.0137
+      },
+      {
+        "time": 28.333,
+        "left": -0.34028,
+        "right": 0.31707,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 28.667,
+        "left": -0.36425,
+        "right": 0.32065,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 29.0,
+        "left": -0.408,
+        "right": 0.32715,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 29.333,
+        "left": -0.41357,
+        "right": 0.33473,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 29.667,
+        "left": -0.46259,
+        "right": 0.34462,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 30.0,
+        "left": -0.49888,
+        "right": 0.35804,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 30.333,
+        "left": -0.53441,
+        "right": 0.37258,
+        "gripperLeft": -0.0046,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 30.667,
+        "left": -0.548,
+        "right": 0.37471,
+        "gripperLeft": -0.0137,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 31.0,
+        "left": -0.55337,
+        "right": 0.37551,
+        "gripperLeft": 3.8757,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 31.333,
+        "left": -0.57168,
+        "right": 0.38211,
+        "gripperLeft": 72.6958,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 31.667,
+        "left": -0.55294,
+        "right": 0.36988,
+        "gripperLeft": 97.8567,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 32.0,
+        "left": -0.49578,
+        "right": 0.3411,
+        "gripperLeft": 5.8233,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 32.333,
+        "left": -0.40457,
+        "right": 0.32425,
+        "gripperLeft": 0.2876,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 32.667,
+        "left": -0.38605,
+        "right": 0.25078,
+        "gripperLeft": 0.0411,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 33.0,
+        "left": -0.29789,
+        "right": 0.14211,
+        "gripperLeft": 0.032,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 33.333,
+        "left": -0.16895,
+        "right": 0.04471,
+        "gripperLeft": 0.0228,
+        "gripperRight": -0.0137
+      },
+      {
+        "time": 33.667,
+        "left": -0.17816,
+        "right": 0.06751,
+        "gripperLeft": 0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 34.0,
+        "left": -0.03515,
+        "right": 0.04855,
+        "gripperLeft": 0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 34.333,
+        "left": -0.12474,
+        "right": 0.21162,
+        "gripperLeft": -0.0046,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 34.667,
+        "left": -0.0192,
+        "right": 0.23848,
+        "gripperLeft": -0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 35.0,
+        "left": 0.02982,
+        "right": 0.19926,
+        "gripperLeft": -0.0137,
+        "gripperRight": -0.0229
+      },
+      {
+        "time": 35.333,
+        "left": 0.0255,
+        "right": 0.19744,
+        "gripperLeft": -0.0137,
+        "gripperRight": -0.0229
+      }
+    ],
+    "id": "example-02",
+    "name": "衣物折叠",
+    "poster": "/open-data/media/example-02.jpg",
+    "cameras": [
+      {
+        "key": "cam_high",
+        "name": "主视角",
+        "url": "/open-data/media/example-02-cam_high.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Main view"
+      },
+      {
+        "key": "cam_left_wrist",
+        "name": "左腕",
+        "url": "/open-data/media/example-02-cam_left_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Left wrist"
+      },
+      {
+        "key": "cam_right_wrist",
+        "name": "右腕",
+        "url": "/open-data/media/example-02-cam_right_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Right wrist"
+      }
+    ],
+    "nameEn": "Folding clothes",
+    "categoryEn": "Clothing and textiles",
+    "objectEn": "T-shirt"
+  },
+  {
+    "category": "衣物与织物",
+    "object": "帽子",
+    "duration": 26.133333,
+    "fps": 30.0,
+    "frames": 784,
+    "captions": [
+      {
+        "scale": "coarse",
+        "text": "Hang a beige hat and a black cap on a coat rack",
+        "start": 0.0,
+        "end": 26.133333,
+        "language": "original",
+        "translations": {
+          "zh": "将一顶米色帽子和一顶黑色鸭舌帽挂到衣帽架上。",
+          "en": "Hang a beige hat and a black cap on a coat rack"
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "The robot moves forward to approach the sofa and grasps the beige hat resting on it with the left arm.",
+        "start": 0.0,
+        "end": 7.866666666666666,
+        "language": "original",
+        "translations": {
+          "zh": "机器人向前移动靠近沙发，左臂抓住放在沙发上的米色帽子。",
+          "en": "The robot moves forward to approach the sofa and grasps the beige hat resting on it with the left arm."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "The right arm takes over the beige hat from the left arm and hangs it on the upper hook of the white coat rack.",
+        "start": 7.866666666666666,
+        "end": 13.7,
+        "language": "original",
+        "translations": {
+          "zh": "右臂从左臂接过米色帽子，并将其挂到白色衣帽架的上层挂钩上。",
+          "en": "The right arm takes over the beige hat from the left arm and hangs it on the upper hook of the white coat rack."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "The robot returns to the sofa and grasps the black cap with the left arm.",
+        "start": 13.7,
+        "end": 19.366666666666667,
+        "language": "original",
+        "translations": {
+          "zh": "机器人返回沙发，左臂抓取黑色鸭舌帽。",
+          "en": "The robot returns to the sofa and grasps the black cap with the left arm."
+        }
+      },
+      {
+        "scale": "medium",
+        "text": "The right arm takes over the black cap and hangs it on the coat rack above the beige hat.",
+        "start": 19.366666666666667,
+        "end": 26.133333,
+        "language": "original",
+        "translations": {
+          "zh": "右臂接过黑色鸭舌帽，并将其挂到衣帽架上米色帽子的上方。",
+          "en": "The right arm takes over the black cap and hangs it on the coat rack above the beige hat."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "The robot moves forward towards the sofa and the left arm grasps the beige hat.",
+        "start": 0.0,
+        "end": 7.866666666666666,
+        "language": "original",
+        "translations": {
+          "zh": "机器人向前移动靠近沙发，左臂抓住米色帽子。",
+          "en": "The robot moves forward towards the sofa and the left arm grasps the beige hat."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "The right arm takes the beige hat from the left arm and places it onto the coat rack hook.",
+        "start": 7.866666666666666,
+        "end": 13.7,
+        "language": "original",
+        "translations": {
+          "zh": "右臂从左臂接过米色帽子，并将其放到衣帽架挂钩上。",
+          "en": "The right arm takes the beige hat from the left arm and places it onto the coat rack hook."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "The robot moves back to the sofa and the left arm grasps the black cap.",
+        "start": 13.7,
+        "end": 19.366666666666667,
+        "language": "original",
+        "translations": {
+          "zh": "机器人返回沙发，左臂抓住黑色鸭舌帽。",
+          "en": "The robot moves back to the sofa and the left arm grasps the black cap."
+        }
+      },
+      {
+        "scale": "fine",
+        "text": "The right arm takes the black cap from the left arm and hangs it on the coat rack.",
+        "start": 19.366666666666667,
+        "end": 26.133333,
+        "language": "original",
+        "translations": {
+          "zh": "右臂从左臂接过黑色鸭舌帽，并将其挂到衣帽架上。",
+          "en": "The right arm takes the black cap from the left arm and hangs it on the coat rack."
+        }
+      },
+      {
+        "scale": "coarse",
+        "language": "zh",
+        "text": "把帽子挂上衣架",
+        "start": 0.0,
+        "end": 26.133333
+      },
+      {
+        "scale": "medium",
+        "language": "zh",
+        "text": "左臂从沙发上抓起米色遮阳帽递给右臂，右臂挂到衣架下层支杆上",
+        "start": 0.0,
+        "end": 12.633333333333333
+      },
+      {
+        "scale": "medium",
+        "language": "zh",
+        "text": "左臂从沙发上抓起黑色鸭舌帽递给右臂，右臂挂到衣架上层支杆上",
+        "start": 12.633333333333333,
+        "end": 26.133333
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "机器人向前移动靠近沙发，视线下移看向沙发上的帽子",
+        "start": 0.0,
+        "end": 1.8
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂伸手抓取沙发上的米色遮阳帽并提起，帽上压着的黑色鸭舌帽滑落留在沙发上",
+        "start": 1.8,
+        "end": 5.266666666666667
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂将米色遮阳帽递给右臂，右臂合爪接过帽子后左臂松开收回",
+        "start": 5.266666666666667,
+        "end": 6.866666666666666
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "右臂将米色遮阳帽挂到白色衣架下层支杆上，开爪释放",
+        "start": 6.866666666666666,
+        "end": 12.633333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂伸手抓取沙发上的黑色鸭舌帽并提起",
+        "start": 12.633333333333333,
+        "end": 17.4
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "左臂将黑色鸭舌帽递给右臂，右臂合爪接过帽子后左臂松开收回",
+        "start": 17.4,
+        "end": 19.9
+      },
+      {
+        "scale": "fine",
+        "language": "zh",
+        "text": "右臂将黑色鸭舌帽挂到白色衣架上层支杆上，松开夹爪并短暂收臂",
+        "start": 19.9,
+        "end": 26.133333
+      },
+      {
+        "scale": "coarse",
+        "language": "en",
+        "text": "Hang hats on a rack.",
+        "start": 0.0,
+        "end": 26.133333
+      },
+      {
+        "scale": "medium",
+        "language": "en",
+        "text": "The left arm picks up a beige sun hat from the sofa and passes it to the right arm, which hangs it on the lower rail of the rack.",
+        "start": 0.0,
+        "end": 12.633333333333333
+      },
+      {
+        "scale": "medium",
+        "language": "en",
+        "text": "The left arm picks up a black baseball cap from the sofa and passes it to the right arm, which hangs it on the upper rail of the rack.",
+        "start": 12.633333333333333,
+        "end": 26.133333
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The robot moves forward toward the sofa and lowers its view toward the hats.",
+        "start": 0.0,
+        "end": 1.8
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm reaches for and lifts the beige sun hat from the sofa; the black baseball cap resting on it slips off and remains on the sofa.",
+        "start": 1.8,
+        "end": 5.266666666666667
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm passes the beige sun hat to the right arm, which grips it; the left arm then releases and withdraws.",
+        "start": 5.266666666666667,
+        "end": 6.866666666666666
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The right arm hangs the beige sun hat on the lower rail of the white rack and opens its gripper to release it.",
+        "start": 6.866666666666666,
+        "end": 12.633333333333333
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm reaches for and lifts the black baseball cap from the sofa.",
+        "start": 12.633333333333333,
+        "end": 17.4
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The left arm passes the black baseball cap to the right arm, which grips it; the left arm then releases and withdraws.",
+        "start": 17.4,
+        "end": 19.9
+      },
+      {
+        "scale": "fine",
+        "language": "en",
+        "text": "The right arm hangs the black baseball cap on the upper rail of the white rack, releases it and briefly withdraws.",
+        "start": 19.9,
+        "end": 26.133333
+      }
+    ],
+    "trajectory": [
+      {
+        "time": 0.0,
+        "left": 0.12309,
+        "right": -0.22664,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 0.333,
+        "left": 0.12341,
+        "right": -0.22655,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 0.667,
+        "left": 0.12128,
+        "right": -0.22276,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 1.0,
+        "left": 0.12786,
+        "right": -0.21728,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 1.333,
+        "left": 0.15714,
+        "right": -0.20574,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 1.667,
+        "left": 0.10687,
+        "right": -0.18799,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 2.0,
+        "left": -0.13148,
+        "right": -0.10646,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 2.333,
+        "left": -0.41547,
+        "right": -0.04915,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 2.667,
+        "left": -0.61502,
+        "right": -0.03178,
+        "gripperLeft": 0.0777,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 3.0,
+        "left": -0.67979,
+        "right": -0.02884,
+        "gripperLeft": 91.8525,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 3.333,
+        "left": -0.5166,
+        "right": -0.00526,
+        "gripperLeft": 92.8847,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 3.667,
+        "left": -0.28209,
+        "right": 0.05014,
+        "gripperLeft": 92.8953,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 4.0,
+        "left": -0.22044,
+        "right": 0.02501,
+        "gripperLeft": 92.9059,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 4.333,
+        "left": -0.26343,
+        "right": -0.01329,
+        "gripperLeft": 92.9059,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 4.667,
+        "left": -0.34129,
+        "right": 0.04265,
+        "gripperLeft": 92.9059,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 5.0,
+        "left": -0.43949,
+        "right": 0.24354,
+        "gripperLeft": 92.9059,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 5.333,
+        "left": -0.51498,
+        "right": 0.43436,
+        "gripperLeft": 92.9166,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 5.667,
+        "left": -0.53612,
+        "right": 0.50559,
+        "gripperLeft": 92.9166,
+        "gripperRight": 1.3767
+      },
+      {
+        "time": 6.0,
+        "left": -0.53759,
+        "right": 0.49839,
+        "gripperLeft": 85.0219,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 6.333,
+        "left": -0.55718,
+        "right": 0.46464,
+        "gripperLeft": 6.5633,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 6.667,
+        "left": -0.52756,
+        "right": 0.42226,
+        "gripperLeft": 1.5933,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 7.0,
+        "left": -0.25528,
+        "right": 0.37674,
+        "gripperLeft": 0.7608,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 7.333,
+        "left": 0.02924,
+        "right": 0.32676,
+        "gripperLeft": 0.3423,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 7.667,
+        "left": 0.09254,
+        "right": 0.26638,
+        "gripperLeft": 0.2968,
+        "gripperRight": 88.5604
+      },
+      {
+        "time": 8.0,
+        "left": 0.0771,
+        "right": 0.17865,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.571
+      },
+      {
+        "time": 8.333,
+        "left": 0.08168,
+        "right": 0.07579,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.571
+      },
+      {
+        "time": 8.667,
+        "left": 0.09803,
+        "right": 0.1065,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.571
+      },
+      {
+        "time": 9.0,
+        "left": 0.1112,
+        "right": 0.18108,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.571
+      },
+      {
+        "time": 9.333,
+        "left": 0.12124,
+        "right": 0.18655,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.571
+      },
+      {
+        "time": 9.667,
+        "left": 0.10749,
+        "right": 0.15675,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.5817
+      },
+      {
+        "time": 10.0,
+        "left": 0.09244,
+        "right": 0.08734,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.5817
+      },
+      {
+        "time": 10.333,
+        "left": 0.07781,
+        "right": 0.14153,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.5817
+      },
+      {
+        "time": 10.667,
+        "left": 0.09287,
+        "right": 0.18303,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.5817
+      },
+      {
+        "time": 11.0,
+        "left": 0.08234,
+        "right": 0.18628,
+        "gripperLeft": 0.2876,
+        "gripperRight": 88.5924
+      },
+      {
+        "time": 11.333,
+        "left": 0.07188,
+        "right": 0.2077,
+        "gripperLeft": 0.2876,
+        "gripperRight": 84.4893
+      },
+      {
+        "time": 11.667,
+        "left": 0.06821,
+        "right": 0.1882,
+        "gripperLeft": 0.2876,
+        "gripperRight": 3.0738
+      },
+      {
+        "time": 12.0,
+        "left": 0.04884,
+        "right": 0.10319,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 12.333,
+        "left": 0.0523,
+        "right": -0.04662,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 12.667,
+        "left": 0.08693,
+        "right": -0.19151,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 13.0,
+        "left": 0.04807,
+        "right": -0.25763,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 13.333,
+        "left": -0.14206,
+        "right": -0.27879,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 13.667,
+        "left": -0.37661,
+        "right": -0.18018,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 14.0,
+        "left": -0.67286,
+        "right": -0.12694,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 14.333,
+        "left": -0.78688,
+        "right": -0.14708,
+        "gripperLeft": 0.2876,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 14.667,
+        "left": -0.77702,
+        "right": -0.17144,
+        "gripperLeft": 90.4787,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 15.0,
+        "left": -0.73186,
+        "right": -0.14887,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 15.333,
+        "left": -0.50413,
+        "right": -0.06213,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 15.667,
+        "left": -0.36258,
+        "right": -0.01299,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 16.0,
+        "left": -0.22395,
+        "right": -0.02794,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 16.333,
+        "left": -0.05816,
+        "right": -0.07081,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 16.667,
+        "left": -0.05291,
+        "right": -0.0689,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 17.0,
+        "left": -0.09521,
+        "right": 0.08133,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 17.333,
+        "left": -0.11339,
+        "right": 0.332,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 17.667,
+        "left": -0.13137,
+        "right": 0.4748,
+        "gripperLeft": 92.991,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 18.0,
+        "left": -0.10868,
+        "right": 0.48312,
+        "gripperLeft": 93.0123,
+        "gripperRight": 1.2773
+      },
+      {
+        "time": 18.333,
+        "left": -0.14188,
+        "right": 0.47171,
+        "gripperLeft": 93.0123,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 18.667,
+        "left": -0.15609,
+        "right": 0.53012,
+        "gripperLeft": 93.0123,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 19.0,
+        "left": -0.16725,
+        "right": 0.55909,
+        "gripperLeft": 93.0123,
+        "gripperRight": 93.1292
+      },
+      {
+        "time": 19.333,
+        "left": -0.17128,
+        "right": 0.54988,
+        "gripperLeft": 93.0123,
+        "gripperRight": 93.9264
+      },
+      {
+        "time": 19.667,
+        "left": -0.17014,
+        "right": 0.54514,
+        "gripperLeft": 4.0268,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 20.0,
+        "left": -0.14593,
+        "right": 0.51726,
+        "gripperLeft": 1.1687,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 20.333,
+        "left": -0.08695,
+        "right": 0.38762,
+        "gripperLeft": 0.5427,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 20.667,
+        "left": -0.04136,
+        "right": 0.09412,
+        "gripperLeft": 0.3423,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 21.0,
+        "left": -0.01504,
+        "right": -0.02778,
+        "gripperLeft": 0.3423,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 21.333,
+        "left": 0.00115,
+        "right": 0.19889,
+        "gripperLeft": 0.3423,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 21.667,
+        "left": 0.01796,
+        "right": 0.50201,
+        "gripperLeft": 0.3423,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 22.0,
+        "left": 0.01532,
+        "right": 0.68446,
+        "gripperLeft": 0.3332,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 22.333,
+        "left": 0.00695,
+        "right": 0.71688,
+        "gripperLeft": 0.3332,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 22.667,
+        "left": -0.00118,
+        "right": 0.71885,
+        "gripperLeft": 0.3332,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 23.0,
+        "left": -0.00917,
+        "right": 0.75834,
+        "gripperLeft": 0.3332,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 23.333,
+        "left": -0.01434,
+        "right": 0.77981,
+        "gripperLeft": 0.3332,
+        "gripperRight": 93.937
+      },
+      {
+        "time": 23.667,
+        "left": -0.02497,
+        "right": 0.75675,
+        "gripperLeft": 0.3332,
+        "gripperRight": 11.4243
+      },
+      {
+        "time": 24.0,
+        "left": -0.03937,
+        "right": 0.67698,
+        "gripperLeft": 0.3332,
+        "gripperRight": 2.7609
+      },
+      {
+        "time": 24.333,
+        "left": -0.0529,
+        "right": 0.35908,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 24.667,
+        "left": -0.0444,
+        "right": 0.05955,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 25.0,
+        "left": 0.02549,
+        "right": -0.07986,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 25.333,
+        "left": 0.0474,
+        "right": -0.05536,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 25.667,
+        "left": 0.04243,
+        "right": -0.05859,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      },
+      {
+        "time": 26.0,
+        "left": 0.04323,
+        "right": -0.05937,
+        "gripperLeft": 0.3332,
+        "gripperRight": 1.2682
+      }
+    ],
+    "id": "example-03",
+    "name": "帽子悬挂",
+    "poster": "/open-data/media/example-03.jpg",
+    "cameras": [
+      {
+        "key": "cam_high",
+        "name": "主视角",
+        "url": "/open-data/media/example-03-cam_high.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Main view"
+      },
+      {
+        "key": "cam_left_wrist",
+        "name": "左腕",
+        "url": "/open-data/media/example-03-cam_left_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Left wrist"
+      },
+      {
+        "key": "cam_right_wrist",
+        "name": "右腕",
+        "url": "/open-data/media/example-03-cam_right_wrist.mp4",
+        "width": 640,
+        "height": 360,
+        "nameEn": "Right wrist"
+      }
+    ],
+    "nameEn": "Hanging hats",
+    "categoryEn": "Clothing and textiles",
+    "objectEn": "Hats"
+  }
+]

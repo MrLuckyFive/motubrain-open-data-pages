@@ -1,0 +1,404 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "annotation-guide-v0.1 structural exchange format",
+  "description": "Semantic truth is not validated. Run validate_annotation.py for frame_count bounds, ID uniqueness, and parent/object reference checks.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "annotation_version",
+    "sample_id",
+    "fps",
+    "frame_count",
+    "frame_offset",
+    "frame_index_base",
+    "end_frame_inclusive",
+    "objects",
+    "segments"
+  ],
+  "properties": {
+    "annotation_version": {
+      "const": "annotation-guide-v0.1"
+    },
+    "sample_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "fps": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "frame_count": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "frame_offset": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "frame_index_base": {
+      "type": "integer",
+      "const": 0
+    },
+    "end_frame_inclusive": {
+      "const": true
+    },
+    "objects": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "description"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        }
+      }
+    },
+    "segments": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "level",
+          "parent_id",
+          "start_frame",
+          "end_frame",
+          "instruction",
+          "actor",
+          "action",
+          "object_id",
+          "target_id",
+          "visibility",
+          "outcome",
+          "outcome_evidence",
+          "boundary_uncertainty",
+          "source",
+          "review_status",
+          "notes"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "level": {
+            "enum": [
+              "coarse",
+              "medium",
+              "fine"
+            ]
+          },
+          "parent_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "start_frame": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "end_frame": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "instruction": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "actor": {
+            "enum": [
+              "left",
+              "right",
+              "both",
+              "none",
+              "unknown"
+            ]
+          },
+          "action": {
+            "enum": [
+              null,
+              "reach_grasp",
+              "place",
+              "handover",
+              "hold",
+              "fold",
+              "wipe",
+              "tilt",
+              "pour",
+              "open",
+              "close",
+              "align_insert",
+              "press",
+              "reveal"
+            ]
+          },
+          "object_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "target_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "\\S"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "visibility": {
+            "enum": [
+              "visible",
+              "partial",
+              "occluded",
+              "unknown"
+            ]
+          },
+          "outcome": {
+            "enum": [
+              "completed",
+              "not_completed",
+              "partial",
+              "unknown",
+              "not_applicable"
+            ]
+          },
+          "outcome_evidence": {
+            "type": "string"
+          },
+          "boundary_uncertainty": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "start_min",
+                  "start_max",
+                  "end_min",
+                  "end_max"
+                ],
+                "properties": {
+                  "start_min": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "start_max": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "end_min": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "end_max": {
+                    "type": "integer",
+                    "minimum": 0
+                  }
+                }
+              }
+            ]
+          },
+          "source": {
+            "enum": [
+              "imported",
+              "model_assisted",
+              "manual",
+              "human_corrected"
+            ]
+          },
+          "review_status": {
+            "enum": [
+              "draft",
+              "review_required",
+              "reviewed"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "level": {
+                  "const": "fine"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "action": {
+                  "enum": [
+                    "reach_grasp",
+                    "place",
+                    "handover",
+                    "hold",
+                    "fold",
+                    "wipe",
+                    "tilt",
+                    "pour",
+                    "open",
+                    "close",
+                    "align_insert",
+                    "press",
+                    "reveal"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "level": {
+                  "const": "coarse"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "parent_id": {
+                  "type": "null"
+                }
+              }
+            },
+            "else": {
+              "properties": {
+                "parent_id": {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "outcome": {
+                  "enum": [
+                    "completed",
+                    "not_completed",
+                    "partial"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "outcome_evidence": {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "boundary_uncertainty": {
+                  "type": "object"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "review_status": {
+                  "enum": [
+                    "draft",
+                    "review_required"
+                  ]
+                },
+                "notes": {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "anyOf": [
+                {
+                  "properties": {
+                    "visibility": {
+                      "enum": [
+                        "partial",
+                        "occluded",
+                        "unknown"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "properties": {
+                    "actor": {
+                      "const": "unknown"
+                    }
+                  }
+                },
+                {
+                  "properties": {
+                    "object_id": {
+                      "type": "null"
+                    }
+                  }
+                }
+              ]
+            },
+            "then": {
+              "properties": {
+                "notes": {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

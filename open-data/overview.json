@@ -1,0 +1,1227 @@
+{
+  "name": "星辰具身交互精选集",
+  "episodes": 106722,
+  "hours": 1000.01,
+  "with_duration": 106722,
+  "topic_count": 243,
+  "topics": [
+    {
+      "label": "摆放耳机",
+      "episodes": 2939,
+      "hours": 8.7395
+    },
+    {
+      "label": "手机放到手机支架上",
+      "episodes": 2893,
+      "hours": 12.4822
+    },
+    {
+      "label": "摆放水果",
+      "episodes": 2313,
+      "hours": 19.4543
+    },
+    {
+      "label": "整理洗漱用品",
+      "episodes": 1847,
+      "hours": 6.5561
+    },
+    {
+      "label": "积木收纳",
+      "episodes": 1819,
+      "hours": 15.368
+    },
+    {
+      "label": "替换白板笔",
+      "episodes": 1759,
+      "hours": 4.7318
+    },
+    {
+      "label": "拧瓶盖",
+      "episodes": 1578,
+      "hours": 12.4208
+    },
+    {
+      "label": "整理书桌",
+      "episodes": 1525,
+      "hours": 7.0079
+    },
+    {
+      "label": "擦拭桌面",
+      "episodes": 1501,
+      "hours": 7.0425
+    },
+    {
+      "label": "收纳电池",
+      "episodes": 1443,
+      "hours": 10.5854
+    },
+    {
+      "label": "倒水",
+      "episodes": 1380,
+      "hours": 19.0715
+    },
+    {
+      "label": "食物分类",
+      "episodes": 1310,
+      "hours": 5.9287
+    },
+    {
+      "label": "工具箱取工具",
+      "episodes": 1182,
+      "hours": 6.9644
+    },
+    {
+      "label": "整理书架",
+      "episodes": 1129,
+      "hours": 7.0184
+    },
+    {
+      "label": "放唱片",
+      "episodes": 1120,
+      "hours": 10.149
+    },
+    {
+      "label": "方块颜色分类",
+      "episodes": 1119,
+      "hours": 3.5076
+    },
+    {
+      "label": "把手机放到手机支架上",
+      "episodes": 1086,
+      "hours": 3.5081
+    },
+    {
+      "label": "收纳玩具",
+      "episodes": 1083,
+      "hours": 10.5331
+    },
+    {
+      "label": "抓木块",
+      "episodes": 1025,
+      "hours": 7.0192
+    },
+    {
+      "label": "收拢美工刀",
+      "episodes": 1025,
+      "hours": 3.5083
+    },
+    {
+      "label": "叠衣服铺平",
+      "episodes": 997,
+      "hours": 8.1182
+    },
+    {
+      "label": "雨伞收纳",
+      "episodes": 986,
+      "hours": 5.464
+    },
+    {
+      "label": "拔线",
+      "episodes": 978,
+      "hours": 3.5082
+    },
+    {
+      "label": "餐前餐具摆放",
+      "episodes": 959,
+      "hours": 7.0161
+    },
+    {
+      "label": "物品放在柜子里",
+      "episodes": 947,
+      "hours": 6.562
+    },
+    {
+      "label": "收纳扑克牌",
+      "episodes": 915,
+      "hours": 7.022
+    },
+    {
+      "label": "垃圾桶扶正",
+      "episodes": 886,
+      "hours": 2.8918
+    },
+    {
+      "label": "刀放刀架",
+      "episodes": 877,
+      "hours": 3.5096
+    },
+    {
+      "label": "手表盒取出手表",
+      "episodes": 872,
+      "hours": 3.2871
+    },
+    {
+      "label": "插吸管",
+      "episodes": 851,
+      "hours": 3.5076
+    },
+    {
+      "label": "加热面包片",
+      "episodes": 839,
+      "hours": 4.598
+    },
+    {
+      "label": "插座拔充电器",
+      "episodes": 835,
+      "hours": 3.5115
+    },
+    {
+      "label": "清扫桌面垃圾",
+      "episodes": 825,
+      "hours": 7.3835
+    },
+    {
+      "label": "摆放鸡蛋",
+      "episodes": 813,
+      "hours": 8.1282
+    },
+    {
+      "label": "擦白板",
+      "episodes": 798,
+      "hours": 3.5094
+    },
+    {
+      "label": "发饰盒收纳发饰",
+      "episodes": 792,
+      "hours": 8.8987
+    },
+    {
+      "label": "擦皮鞋",
+      "episodes": 792,
+      "hours": 7.0306
+    },
+    {
+      "label": "肥皂收纳",
+      "episodes": 789,
+      "hours": 3.6783
+    },
+    {
+      "label": "垫杯垫",
+      "episodes": 779,
+      "hours": 3.5114
+    },
+    {
+      "label": "杂物收纳",
+      "episodes": 777,
+      "hours": 4.7145
+    },
+    {
+      "label": "给绿植喷水",
+      "episodes": 771,
+      "hours": 3.509
+    },
+    {
+      "label": "帆布包放物品",
+      "episodes": 761,
+      "hours": 10.5469
+    },
+    {
+      "label": "清洗碟子",
+      "episodes": 748,
+      "hours": 4.3935
+    },
+    {
+      "label": "盖笔盖",
+      "episodes": 674,
+      "hours": 3.0645
+    },
+    {
+      "label": "把盐放在碗里",
+      "episodes": 636,
+      "hours": 6.426
+    },
+    {
+      "label": "叠购物袋",
+      "episodes": 634,
+      "hours": 6.7715
+    },
+    {
+      "label": "收纳燕尾夹",
+      "episodes": 630,
+      "hours": 7.0231
+    },
+    {
+      "label": "唱片机放唱片",
+      "episodes": 627,
+      "hours": 3.5146
+    },
+    {
+      "label": "放入纸杯",
+      "episodes": 625,
+      "hours": 1.9361
+    },
+    {
+      "label": "行李箱收纳衣物",
+      "episodes": 619,
+      "hours": 7.0311
+    },
+    {
+      "label": "拔充电器线 · 避障",
+      "episodes": 615,
+      "hours": 6.4957
+    },
+    {
+      "label": "积木颜色分类",
+      "episodes": 613,
+      "hours": 9.8571
+    },
+    {
+      "label": "试管收纳",
+      "episodes": 608,
+      "hours": 7.2126
+    },
+    {
+      "label": "收纳袜子",
+      "episodes": 603,
+      "hours": 8.3393
+    },
+    {
+      "label": "整理内衣抽屉",
+      "episodes": 597,
+      "hours": 7.3254
+    },
+    {
+      "label": "叠纸杯",
+      "episodes": 584,
+      "hours": 3.6844
+    },
+    {
+      "label": "医疗箱收纳药品",
+      "episodes": 578,
+      "hours": 3.832
+    },
+    {
+      "label": "物品分类",
+      "episodes": 577,
+      "hours": 3.5112
+    },
+    {
+      "label": "加热面包",
+      "episodes": 575,
+      "hours": 7.8448
+    },
+    {
+      "label": "拧瓶盖倒水",
+      "episodes": 563,
+      "hours": 6.4146
+    },
+    {
+      "label": "把笔放进笔筒",
+      "episodes": 558,
+      "hours": 3.3647
+    },
+    {
+      "label": "收纳盒套盒",
+      "episodes": 550,
+      "hours": 3.5089
+    },
+    {
+      "label": "铲板栗",
+      "episodes": 548,
+      "hours": 7.0296
+    },
+    {
+      "label": "盘子收纳",
+      "episodes": 547,
+      "hours": 6.7132
+    },
+    {
+      "label": "扫商品条码",
+      "episodes": 546,
+      "hours": 10.4496
+    },
+    {
+      "label": "把茄子放入盘子里",
+      "episodes": 541,
+      "hours": 3.511
+    },
+    {
+      "label": "更换纸抽",
+      "episodes": 540,
+      "hours": 8.7364
+    },
+    {
+      "label": "清洗量筒",
+      "episodes": 525,
+      "hours": 3.6105
+    },
+    {
+      "label": "桌面碗碟归拢与抹布擦拭",
+      "episodes": 521,
+      "hours": 5.3774
+    },
+    {
+      "label": "清洁键盘",
+      "episodes": 510,
+      "hours": 3.5136
+    },
+    {
+      "label": "玻璃杯收纳",
+      "episodes": 500,
+      "hours": 6.6874
+    },
+    {
+      "label": "新叠短袖",
+      "episodes": 494,
+      "hours": 10.5487
+    },
+    {
+      "label": "眼镜盒收纳眼镜",
+      "episodes": 490,
+      "hours": 3.1684
+    },
+    {
+      "label": "清理洗手台",
+      "episodes": 482,
+      "hours": 3.5102
+    },
+    {
+      "label": "玩偶收纳",
+      "episodes": 480,
+      "hours": 3.5095
+    },
+    {
+      "label": "收纳篮堆叠",
+      "episodes": 474,
+      "hours": 2.4465
+    },
+    {
+      "label": "手机充电",
+      "episodes": 470,
+      "hours": 3.0341
+    },
+    {
+      "label": "插座插充电器",
+      "episodes": 467,
+      "hours": 3.5082
+    },
+    {
+      "label": "象棋收纳",
+      "episodes": 462,
+      "hours": 4.4594
+    },
+    {
+      "label": "盖毛笔盖 · 避障",
+      "episodes": 456,
+      "hours": 3.5094
+    },
+    {
+      "label": "微波炉放食物",
+      "episodes": 446,
+      "hours": 5.4037
+    },
+    {
+      "label": "收纳杯具",
+      "episodes": 443,
+      "hours": 3.5166
+    },
+    {
+      "label": "脏衣服放入洗衣机",
+      "episodes": 443,
+      "hours": 3.5081
+    },
+    {
+      "label": "整理调料柜",
+      "episodes": 441,
+      "hours": 7.0193
+    },
+    {
+      "label": "液体倾倒",
+      "episodes": 440,
+      "hours": 3.5084
+    },
+    {
+      "label": "擦拭手提箱 · 避障",
+      "episodes": 438,
+      "hours": 7.0286
+    },
+    {
+      "label": "鞋子收纳",
+      "episodes": 434,
+      "hours": 3.5134
+    },
+    {
+      "label": "水池接水",
+      "episodes": 432,
+      "hours": 3.5125
+    },
+    {
+      "label": "指甲钳收纳",
+      "episodes": 419,
+      "hours": 3.7185
+    },
+    {
+      "label": "收纳袋收纳眼镜盒",
+      "episodes": 412,
+      "hours": 7.0306
+    },
+    {
+      "label": "海绵擦锅 · 避障",
+      "episodes": 407,
+      "hours": 7.0316
+    },
+    {
+      "label": "收纳空瓶 · 避障",
+      "episodes": 403,
+      "hours": 7.0446
+    },
+    {
+      "label": "手机放入手机壳",
+      "episodes": 400,
+      "hours": 3.5092
+    },
+    {
+      "label": "组装酒精灯",
+      "episodes": 399,
+      "hours": 3.5088
+    },
+    {
+      "label": "工具收纳",
+      "episodes": 397,
+      "hours": 3.5152
+    },
+    {
+      "label": "碗具分类与收纳",
+      "episodes": 388,
+      "hours": 7.0502
+    },
+    {
+      "label": "传送带分拣",
+      "episodes": 384,
+      "hours": 3.509
+    },
+    {
+      "label": "锅中放入食物",
+      "episodes": 384,
+      "hours": 3.5126
+    },
+    {
+      "label": "插线 · 避障",
+      "episodes": 382,
+      "hours": 6.4018
+    },
+    {
+      "label": "悬挂帽子",
+      "episodes": 380,
+      "hours": 3.5095
+    },
+    {
+      "label": "新叠衣服",
+      "episodes": 374,
+      "hours": 7.0302
+    },
+    {
+      "label": "饮水机接水",
+      "episodes": 374,
+      "hours": 3.5077
+    },
+    {
+      "label": "整理枕头",
+      "episodes": 372,
+      "hours": 3.5098
+    },
+    {
+      "label": "折纸盒",
+      "episodes": 371,
+      "hours": 6.5437
+    },
+    {
+      "label": "茄子放到盘子上",
+      "episodes": 369,
+      "hours": 1.5795
+    },
+    {
+      "label": "衣服悬挂落地衣架",
+      "episodes": 368,
+      "hours": 3.5152
+    },
+    {
+      "label": "餐盘收纳",
+      "episodes": 357,
+      "hours": 5.6817
+    },
+    {
+      "label": "鞋放入鞋盒",
+      "episodes": 353,
+      "hours": 3.8391
+    },
+    {
+      "label": "衣物入筐",
+      "episodes": 351,
+      "hours": 3.5153
+    },
+    {
+      "label": "挎包放物品",
+      "episodes": 350,
+      "hours": 6.8155
+    },
+    {
+      "label": "移动摆放办公用品",
+      "episodes": 349,
+      "hours": 3.5121
+    },
+    {
+      "label": "饮料分类",
+      "episodes": 345,
+      "hours": 5.7584
+    },
+    {
+      "label": "将书架上的书本放到桌子上",
+      "episodes": 338,
+      "hours": 3.5106
+    },
+    {
+      "label": "叠短袖",
+      "episodes": 331,
+      "hours": 7.0292
+    },
+    {
+      "label": "脏衣服放洗衣机",
+      "episodes": 331,
+      "hours": 3.5151
+    },
+    {
+      "label": "叠杯子",
+      "episodes": 329,
+      "hours": 3.5115
+    },
+    {
+      "label": "更换杯垫 · 避障",
+      "episodes": 328,
+      "hours": 5.4097
+    },
+    {
+      "label": "整理归纳沙发物品头部锁定",
+      "episodes": 327,
+      "hours": 3.5167
+    },
+    {
+      "label": "插花拿出",
+      "episodes": 326,
+      "hours": 7.002
+    },
+    {
+      "label": "文具收纳 · 避障",
+      "episodes": 324,
+      "hours": 6.8824
+    },
+    {
+      "label": "拔笔帽",
+      "episodes": 313,
+      "hours": 0.8877
+    },
+    {
+      "label": "收纳袜子 · 避障",
+      "episodes": 312,
+      "hours": 7.0326
+    },
+    {
+      "label": "更换纸抽头部锁定",
+      "episodes": 311,
+      "hours": 3.5151
+    },
+    {
+      "label": "脏衣物入筐",
+      "episodes": 311,
+      "hours": 3.5126
+    },
+    {
+      "label": "制作三明治",
+      "episodes": 306,
+      "hours": 3.5121
+    },
+    {
+      "label": "放置调料瓶 · 避障",
+      "episodes": 305,
+      "hours": 3.5096
+    },
+    {
+      "label": "套刀具保护套",
+      "episodes": 302,
+      "hours": 3.0668
+    },
+    {
+      "label": "把玩偶放入容器",
+      "episodes": 300,
+      "hours": 2.0958
+    },
+    {
+      "label": "擦盘子 · 避障",
+      "episodes": 297,
+      "hours": 3.5127
+    },
+    {
+      "label": "衣物悬挂落地衣架",
+      "episodes": 297,
+      "hours": 3.5148
+    },
+    {
+      "label": "首饰收纳",
+      "episodes": 297,
+      "hours": 3.5152
+    },
+    {
+      "label": "倒水递杯子",
+      "episodes": 295,
+      "hours": 7.0365
+    },
+    {
+      "label": "笔袋放笔",
+      "episodes": 295,
+      "hours": 3.5165
+    },
+    {
+      "label": "抹布收纳与更替",
+      "episodes": 291,
+      "hours": 1.7418
+    },
+    {
+      "label": "擦拭相框",
+      "episodes": 290,
+      "hours": 3.516
+    },
+    {
+      "label": "整理餐具",
+      "episodes": 278,
+      "hours": 3.5174
+    },
+    {
+      "label": "舀汤",
+      "episodes": 277,
+      "hours": 4.8525
+    },
+    {
+      "label": "喷壶浇花",
+      "episodes": 272,
+      "hours": 3.512
+    },
+    {
+      "label": "手表收纳",
+      "episodes": 272,
+      "hours": 3.508
+    },
+    {
+      "label": "收纳茶杯",
+      "episodes": 271,
+      "hours": 3.5123
+    },
+    {
+      "label": "换垃圾袋",
+      "episodes": 265,
+      "hours": 3.5119
+    },
+    {
+      "label": "筷子收纳",
+      "episodes": 252,
+      "hours": 7.0607
+    },
+    {
+      "label": "摆放盘子",
+      "episodes": 248,
+      "hours": 3.0211
+    },
+    {
+      "label": "玩具放到置物架",
+      "episodes": 246,
+      "hours": 3.5115
+    },
+    {
+      "label": "更换花洒",
+      "episodes": 244,
+      "hours": 3.4743
+    },
+    {
+      "label": "摆放毛笔 · 避障",
+      "episodes": 243,
+      "hours": 1.7836
+    },
+    {
+      "label": "收纳遥控器",
+      "episodes": 243,
+      "hours": 3.5213
+    },
+    {
+      "label": "钥匙扣分类 · 避障",
+      "episodes": 243,
+      "hours": 3.5198
+    },
+    {
+      "label": "放置遥控器 · 避障",
+      "episodes": 237,
+      "hours": 3.5085
+    },
+    {
+      "label": "清洁量筒",
+      "episodes": 237,
+      "hours": 3.5161
+    },
+    {
+      "label": "拔充电器",
+      "episodes": 236,
+      "hours": 0.964
+    },
+    {
+      "label": "收纳硬盘 · 避障",
+      "episodes": 231,
+      "hours": 3.5147
+    },
+    {
+      "label": "笔放入笔筒",
+      "episodes": 230,
+      "hours": 3.6905
+    },
+    {
+      "label": "收纳羽毛球",
+      "episodes": 227,
+      "hours": 4.1814
+    },
+    {
+      "label": "插线",
+      "episodes": 226,
+      "hours": 3.1251
+    },
+    {
+      "label": "茶杯放到杯架",
+      "episodes": 221,
+      "hours": 2.9272
+    },
+    {
+      "label": "空气炸锅炸食物",
+      "episodes": 219,
+      "hours": 5.9828
+    },
+    {
+      "label": "将米铲进盆里",
+      "episodes": 218,
+      "hours": 1.6076
+    },
+    {
+      "label": "叠汉诺塔",
+      "episodes": 217,
+      "hours": 3.514
+    },
+    {
+      "label": "拔插头 · 避障",
+      "episodes": 216,
+      "hours": 1.9799
+    },
+    {
+      "label": "舀汤 · 避障",
+      "episodes": 216,
+      "hours": 6.2617
+    },
+    {
+      "label": "整理归纳沙发物品底盘移动",
+      "episodes": 212,
+      "hours": 3.516
+    },
+    {
+      "label": "拧瓶盖 · 避障",
+      "episodes": 211,
+      "hours": 3.516
+    },
+    {
+      "label": "插花取出",
+      "episodes": 210,
+      "hours": 3.5668
+    },
+    {
+      "label": "积木分类 · 避障",
+      "episodes": 210,
+      "hours": 3.509
+    },
+    {
+      "label": "面包片加热",
+      "episodes": 209,
+      "hours": 2.8621
+    },
+    {
+      "label": "熨斗熨衣服",
+      "episodes": 207,
+      "hours": 3.1101
+    },
+    {
+      "label": "将书放到书架上",
+      "episodes": 205,
+      "hours": 3.6333
+    },
+    {
+      "label": "书架拿书",
+      "episodes": 201,
+      "hours": 1.5535
+    },
+    {
+      "label": "整理调料柜头部锁定",
+      "episodes": 200,
+      "hours": 3.4874
+    },
+    {
+      "label": "拜访鸡蛋",
+      "episodes": 199,
+      "hours": 3.5205
+    },
+    {
+      "label": "摆放调料瓶",
+      "episodes": 199,
+      "hours": 1.3879
+    },
+    {
+      "label": "烛台上放蜡烛 · 避障",
+      "episodes": 199,
+      "hours": 3.5165
+    },
+    {
+      "label": "玩具放到置物架 · 避障",
+      "episodes": 199,
+      "hours": 2.907
+    },
+    {
+      "label": "冲泡茶叶",
+      "episodes": 197,
+      "hours": 3.5078
+    },
+    {
+      "label": "更换垃圾袋",
+      "episodes": 196,
+      "hours": 3.5152
+    },
+    {
+      "label": "挂电子秤",
+      "episodes": 194,
+      "hours": 0.8476
+    },
+    {
+      "label": "盖热水壶盖子放回去",
+      "episodes": 190,
+      "hours": 1.0477
+    },
+    {
+      "label": "鞋放入鞋盒 · 避障",
+      "episodes": 190,
+      "hours": 3.5168
+    },
+    {
+      "label": "冲泡果汁",
+      "episodes": 189,
+      "hours": 3.5265
+    },
+    {
+      "label": "玩具分类 · 避障",
+      "episodes": 185,
+      "hours": 3.5237
+    },
+    {
+      "label": "把衣服放进洗衣机特殊",
+      "episodes": 182,
+      "hours": 0.9349
+    },
+    {
+      "label": "收纳球具 · 避障",
+      "episodes": 182,
+      "hours": 3.5165
+    },
+    {
+      "label": "拔充电线线 · 避障",
+      "episodes": 179,
+      "hours": 1.6914
+    },
+    {
+      "label": "收纳空瓶",
+      "episodes": 178,
+      "hours": 3.5175
+    },
+    {
+      "label": "锅中放入食材",
+      "episodes": 178,
+      "hours": 3.513
+    },
+    {
+      "label": "收纳一次性纸杯 · 避障",
+      "episodes": 171,
+      "hours": 3.5122
+    },
+    {
+      "label": "碗具堆叠",
+      "episodes": 168,
+      "hours": 3.5105
+    },
+    {
+      "label": "将菜放到锅里",
+      "episodes": 165,
+      "hours": 2.026
+    },
+    {
+      "label": "收纳衣服 · 避障",
+      "episodes": 164,
+      "hours": 3.5247
+    },
+    {
+      "label": "搭积木",
+      "episodes": 160,
+      "hours": 3.5084
+    },
+    {
+      "label": "试管倒水 · 避障",
+      "episodes": 155,
+      "hours": 3.5194
+    },
+    {
+      "label": "手机放置",
+      "episodes": 151,
+      "hours": 0.9169
+    },
+    {
+      "label": "翻杯子找物品",
+      "episodes": 149,
+      "hours": 1.7702
+    },
+    {
+      "label": "洗衣机洗衣服",
+      "episodes": 148,
+      "hours": 3.5172
+    },
+    {
+      "label": "敲打木棍",
+      "episodes": 144,
+      "hours": 3.5085
+    },
+    {
+      "label": "收纳袋收纳蔬菜 · 避障",
+      "episodes": 142,
+      "hours": 3.5275
+    },
+    {
+      "label": "舀狗粮",
+      "episodes": 140,
+      "hours": 3.5211
+    },
+    {
+      "label": "物品称重",
+      "episodes": 139,
+      "hours": 2.1959
+    },
+    {
+      "label": "擦拭盘子",
+      "episodes": 131,
+      "hours": 3.2412
+    },
+    {
+      "label": "放置试管",
+      "episodes": 130,
+      "hours": 1.7813
+    },
+    {
+      "label": "挂钩置物",
+      "episodes": 126,
+      "hours": 3.5163
+    },
+    {
+      "label": "把衣服放进洗衣机",
+      "episodes": 117,
+      "hours": 1.0197
+    },
+    {
+      "label": "插放木棍",
+      "episodes": 116,
+      "hours": 3.5172
+    },
+    {
+      "label": "舀面粉 · 避障",
+      "episodes": 112,
+      "hours": 3.5289
+    },
+    {
+      "label": "收纳电池 · 避障",
+      "episodes": 109,
+      "hours": 3.53
+    },
+    {
+      "label": "舀玉米粒 · 避障",
+      "episodes": 103,
+      "hours": 3.5298
+    },
+    {
+      "label": "收纳棉签",
+      "episodes": 101,
+      "hours": 3.5361
+    },
+    {
+      "label": "餐后厨具收纳",
+      "episodes": 101,
+      "hours": 1.1214
+    },
+    {
+      "label": "插充电器",
+      "episodes": 100,
+      "hours": 0.7449
+    },
+    {
+      "label": "餐后餐具收纳",
+      "episodes": 96,
+      "hours": 1.1875
+    },
+    {
+      "label": "丢桌面垃圾",
+      "episodes": 93,
+      "hours": 1.0302
+    },
+    {
+      "label": "测量液体",
+      "episodes": 90,
+      "hours": 1.3791
+    },
+    {
+      "label": "放置遥控器",
+      "episodes": 89,
+      "hours": 1.1017
+    },
+    {
+      "label": "悬挂电子秤",
+      "episodes": 82,
+      "hours": 0.2567
+    },
+    {
+      "label": "开小台灯",
+      "episodes": 78,
+      "hours": 0.1234
+    },
+    {
+      "label": "夹手机",
+      "episodes": 76,
+      "hours": 0.4079
+    },
+    {
+      "label": "舀糙米粒 · 避障",
+      "episodes": 76,
+      "hours": 2.5337
+    },
+    {
+      "label": "收纳指甲钳",
+      "episodes": 71,
+      "hours": 0.4737
+    },
+    {
+      "label": "插座插拔充电器",
+      "episodes": 69,
+      "hours": 0.3778
+    },
+    {
+      "label": "拧瓶盖特殊",
+      "episodes": 68,
+      "hours": 0.44
+    },
+    {
+      "label": "将桌面垃圾丢进垃圾桶",
+      "episodes": 58,
+      "hours": 0.7812
+    },
+    {
+      "label": "盖笔帽",
+      "episodes": 48,
+      "hours": 0.2107
+    },
+    {
+      "label": "文具收纳",
+      "episodes": 43,
+      "hours": 0.7014
+    },
+    {
+      "label": "空气炸锅炸食物距离",
+      "episodes": 42,
+      "hours": 1.1578
+    },
+    {
+      "label": "发饰收纳",
+      "episodes": 30,
+      "hours": 0.3425
+    },
+    {
+      "label": "将书架上的书放到桌子上",
+      "episodes": 30,
+      "hours": 0.3515
+    },
+    {
+      "label": "打开调料品盖",
+      "episodes": 30,
+      "hours": 0.1136
+    },
+    {
+      "label": "袜子放置",
+      "episodes": 30,
+      "hours": 0.4166
+    },
+    {
+      "label": "调料品收纳",
+      "episodes": 28,
+      "hours": 0.2157
+    },
+    {
+      "label": "收纳衣服",
+      "episodes": 23,
+      "hours": 0.4766
+    },
+    {
+      "label": "插拔数据线",
+      "episodes": 19,
+      "hours": 0.171
+    },
+    {
+      "label": "抽屉收纳袜子",
+      "episodes": 17,
+      "hours": 0.1508
+    },
+    {
+      "label": "吸尘器吸碎屑",
+      "episodes": 12,
+      "hours": 0.178
+    },
+    {
+      "label": "耳机收纳",
+      "episodes": 12,
+      "hours": 0.1171
+    },
+    {
+      "label": "整理沙发头部锁定",
+      "episodes": 9,
+      "hours": 0.069
+    },
+    {
+      "label": "新摆放耳机",
+      "episodes": 8,
+      "hours": 0.0499
+    },
+    {
+      "label": "拧瓶盖补采",
+      "episodes": 7,
+      "hours": 0.1264
+    },
+    {
+      "label": "羽毛球收纳",
+      "episodes": 7,
+      "hours": 0.1064
+    },
+    {
+      "label": "在白板上写字",
+      "episodes": 5,
+      "hours": 0.0605
+    },
+    {
+      "label": "刀放刀架上",
+      "episodes": 2,
+      "hours": 0.0078
+    },
+    {
+      "label": "茶杯收纳",
+      "episodes": 2,
+      "hours": 0.0351
+    },
+    {
+      "label": "笔放入笔袋",
+      "episodes": 1,
+      "hours": 0.0086
+    }
+  ],
+  "snapshot_at": "2026-10-15T09:07:24.523157+00:00",
+  "topic_method": "按任务描述整理展示主题，用于浏览数据分布；主题数量不等同于独立技能数量。",
+  "duration_method": "每个片段取已登记视频的最大正时长，多路相机不重复累加；有效训练时长需按用途另行验收。"
+}
